@@ -1,8 +1,8 @@
 # Roast Your Own Agent
 
-![Competition](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068.svg)
-![Rank](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/SRamadhan-07/makefun-roast-febri/rank.svg)
-![Reward](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/SRamadhan-07/makefun-roast-febri/reward.svg)
+[![Competition](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068)
+[![Rank](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/SRamadhan-07/makefun-roast-febri/rank.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068)
+[![Reward](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/SRamadhan-07/makefun-roast-febri/reward.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068)
 
 A Python program that writes a one-line roast of my own AI agent to `/output/entry.txt`.
 
